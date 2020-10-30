@@ -1,0 +1,13 @@
+body{
+    background: lightblue;
+  }
+
+canvas{
+    width: 600px;
+    height: 400px;
+    margin: 10px;
+    border: 1px solid purple;
+  }
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
